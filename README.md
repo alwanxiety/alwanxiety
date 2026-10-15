@@ -7,6 +7,8 @@
 
 ---
 
-### 🌐 Контакты
+<div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XPAH1TEJIb_3A3bl)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/XPAH1TEJib_3A3b1)
+
+</div>
